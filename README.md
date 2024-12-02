@@ -57,8 +57,9 @@ The dataset contains a total of 6 labels and 1,195 images, organized as follows:
 ### Training Results  
 
 The best accuracy on the validation set was achieved at the 150th training iteration: **0.654**.  
+
 <p align="center">
-![Training Results Visualization](https://github.com/user-attachments/assets/efc49203-af0e-4688-a9e8-fdcd2bdf20f3)  
+  <img src= "https://github.com/user-attachments/assets/efc49203-af0e-4688-a9e8-fdcd2bdf20f3">
 </p>
 
 ---
