@@ -1,4 +1,4 @@
-# Intelligent Bear Prevention System Based on Computer Vision and IoT: A New Approach to Reduce Human-Bear Conflicts  
+### Intelligent Bear Prevention System Based on Computer Vision and IoT: A New Approach to Reduce Human-Bear Conflicts  
 
 <p align="center">
 Pengyu Chen<sup>1, 2</sup>, Teng Fei<sup>1,*</sup>, Yunyan Du<sup>3</sup>, Jiawei Yi<sup>3</sup>
@@ -10,7 +10,7 @@ Pengyu Chen<sup>1, 2</sup>, Teng Fei<sup>1,*</sup>, Yunyan Du<sup>3</sup>, Jiawe
 
 ---
 
-## Dataset  
+### Dataset  
 
 The dataset contains a total of 6 labels and 1,195 images, organized as follows:  
 
@@ -25,7 +25,7 @@ The dataset contains a total of 6 labels and 1,195 images, organized as follows:
 
 ---
 
-## Training Parameters  
+### Training Parameters  
 
 ### Image Augmentation  
 
@@ -54,7 +54,7 @@ The dataset contains a total of 6 labels and 1,195 images, organized as follows:
 
 ---
 
-## Training Results  
+### Training Results  
 
 The best accuracy on the validation set was achieved at the 150th training iteration: **0.654**.  
 
@@ -62,7 +62,7 @@ The best accuracy on the validation set was achieved at the 150th training itera
 
 ---
 
-## Validation Set Results  
+### Validation Set Results  
 
 ### Correct Results  
 
