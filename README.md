@@ -1,5 +1,11 @@
-# Intelligent Bear Prevention System Based on Computer Vision and IoT  
-### A New Approach to Reduce Human-Bear Conflicts  
+# Intelligent Bear Prevention System Based on Computer Vision and IoT: A New Approach to Reduce Human-Bear Conflicts  
+
+
+**Pengyu Chen<sup>1, 2</sup>, Teng Fei<sup>1*</sup>, Yunyan Du<sup>3</sup>, Jiawei Yi<sup>3</sup>**  
+
+<sup>1</sup> School of Resources and Environmental Sciences, Wuhan University, Wuhan 430070, China  
+<sup>2</sup> Department of Geography, University of South Carolina, Columbia 29201, USA  
+<sup>3</sup> State Key Laboratory of Resources and Environmental Information System, Beijing 100101, China  
 
 ---
 
