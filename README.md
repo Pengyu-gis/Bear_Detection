@@ -66,19 +66,19 @@ The best accuracy on the validation set was achieved at the 150th training itera
 ### Correct Results  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eaf3997c-ee4a-422b-80e9-7d6364908e45" width="45%" alt="Correct Result 1">
-  <img src="https://github.com/user-attachments/assets/21c88ac9-24a0-4a07-a99c-77eb79e7c828" width="45%" alt="Correct Result 2">
-  <img src="https://github.com/user-attachments/assets/6d375edf-8404-48fd-8f80-1b6bfcfc0ea3" width="45%" alt="Correct Result 3">
-  <img src="https://github.com/user-attachments/assets/bdd65ba1-653b-41f2-8265-41d3d5dd4447" width="45%" alt="Correct Result 4">
+  <img src="https://github.com/user-attachments/assets/eaf3997c-ee4a-422b-80e9-7d6364908e45" width="25%" alt="Correct Result 1">
+  <img src="https://github.com/user-attachments/assets/21c88ac9-24a0-4a07-a99c-77eb79e7c828" width="25%" alt="Correct Result 2">
+  <img src="https://github.com/user-attachments/assets/6d375edf-8404-48fd-8f80-1b6bfcfc0ea3" width="25%" alt="Correct Result 3">
+  <img src="https://github.com/user-attachments/assets/bdd65ba1-653b-41f2-8265-41d3d5dd4447" width="25%" alt="Correct Result 4">
 </p>
 
 ### False Results  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/93f39411-53c7-4c55-a106-09bd4305cf78" width="45%" alt="False Result 1">
-  <img src="https://github.com/user-attachments/assets/f31dcce2-121d-4aa9-9937-de81589aac77" width="45%" alt="False Result 2">
-  <img src="https://github.com/user-attachments/assets/fe7f89ea-a063-4c96-b7b1-d9d2e054dc83" width="45%" alt="False Result 3">
-  <img src="https://github.com/user-attachments/assets/9c6d58a9-971b-4b5e-9d92-9b716100a411" width="45%" alt="False Result 4">
+  <img src="https://github.com/user-attachments/assets/93f39411-53c7-4c55-a106-09bd4305cf78" width="25%" alt="False Result 1">
+  <img src="https://github.com/user-attachments/assets/f31dcce2-121d-4aa9-9937-de81589aac77" width="25%" alt="False Result 2">
+  <img src="https://github.com/user-attachments/assets/fe7f89ea-a063-4c96-b7b1-d9d2e054dc83" width="25%" alt="False Result 3">
+  <img src="https://github.com/user-attachments/assets/9c6d58a9-971b-4b5e-9d92-9b716100a411" width="25%" alt="False Result 4">
 </p>
 
 ---
