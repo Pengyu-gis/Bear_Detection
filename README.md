@@ -4,9 +4,9 @@
 Pengyu Chen<sup>1, 2</sup>, Teng Fei<sup>1,*</sup>, Yunyan Du<sup>3</sup>, Jiawei Yi<sup>3</sup>
 </p>
 
-<sup>1</sup> School of Resources and Environmental Sciences, Wuhan University, Wuhan 430070, China  
-<sup>2</sup> Department of Geography, University of South Carolina, Columbia 29201, USA  
-<sup>3</sup> State Key Laboratory of Resources and Environmental Information System, Beijing 100101, China  
+<sup>1.</sup> School of Resources and Environmental Sciences, Wuhan University, Wuhan 430070, China  
+<sup>2.</sup> Department of Geography, University of South Carolina, Columbia 29201, USA  
+<sup>3.</sup> State Key Laboratory of Resources and Environmental Information System, Beijing 100101, China  
 
 ---
 
@@ -57,8 +57,9 @@ The dataset contains a total of 6 labels and 1,195 images, organized as follows:
 ### Training Results  
 
 The best accuracy on the validation set was achieved at the 150th training iteration: **0.654**.  
-
+<p align="center">
 ![Training Results Visualization](https://github.com/user-attachments/assets/efc49203-af0e-4688-a9e8-fdcd2bdf20f3)  
+</p>
 
 ---
 
