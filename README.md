@@ -1,4 +1,4 @@
-### Intelligent Bear Prevention System Based on Computer Vision and IoT: A New Approach to Reduce Human-Bear Conflicts  
+## Intelligent Bear Prevention System Based on Computer Vision and IoT: A New Approach to Reduce Human-Bear Conflicts  
 
 <p align="center">
 Pengyu Chen<sup>1, 2</sup>, Teng Fei<sup>1,*</sup>, Yunyan Du<sup>3</sup>, Jiawei Yi<sup>3</sup>
@@ -27,7 +27,7 @@ The dataset contains a total of 6 labels and 1,195 images, organized as follows:
 
 ### Training Parameters  
 
-### Image Augmentation  
+#### Image Augmentation  
 
 - **Random mirroring**: Enabled  
 - **Random rotation**: Disabled  
@@ -37,13 +37,13 @@ The dataset contains a total of 6 labels and 1,195 images, organized as follows:
 - **Mean value**: 123.5  
 - **Standard deviation**: 58.395  
 
-### Model Information  
+#### Model Information  
 
 - **Deployment platform**: nncase  
 - **Model architecture**: YOLOv2  
 - **Backbone network**: MobileNet_0.75  
 
-### Training Parameters  
+#### Training Parameters  
 
 - **Training epochs**: 150  
 - **Batch size**: 32  
@@ -64,7 +64,7 @@ The best accuracy on the validation set was achieved at the 150th training itera
 
 ### Validation Set Results  
 
-### Correct Results  
+#### Correct Results  
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/eaf3997c-ee4a-422b-80e9-7d6364908e45" width="20%" alt="Correct Result 1">
@@ -73,7 +73,7 @@ The best accuracy on the validation set was achieved at the 150th training itera
   <img src="https://github.com/user-attachments/assets/bdd65ba1-653b-41f2-8265-41d3d5dd4447" width="20%" alt="Correct Result 4">
 </p>
 
-### False Results  
+#### False Results  
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/93f39411-53c7-4c55-a106-09bd4305cf78" width="20%" alt="False Result 1">
