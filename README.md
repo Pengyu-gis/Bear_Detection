@@ -9,7 +9,13 @@ Pengyu Chen<sup>1, 2</sup>, Teng Fei<sup>1,*</sup>, Yunyan Du<sup>3</sup>, Jiawe
 <sup>3.</sup> State Key Laboratory of Resources and Environmental Information System, Beijing 100101, China  
 
 ---
+### Framework
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/22ea1a89-5a14-43ba-bd1d-9d48430982af">
+  <img src="https://github.com/user-attachments/assets/063152a2-99d9-4ab5-b1ad-5b2f11364dbd">
+</p>
+  
 ### Dataset  
 
 The dataset contains a total of 6 labels and 1,195 images, organized as follows:  
